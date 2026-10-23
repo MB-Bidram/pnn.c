@@ -7,9 +7,10 @@ A simple 1D Probability Neural Network written in C for educational proposes.
 git clone https://github.com/MB-Bidram/pnn.c.git
 cd pnn.c
 ```
-### GNU GCC
+### Compile
+#### GNU GCC
 ```gcc main.c -o pnn.exe -O2```
-### Clang
+#### Clang
 ```clang main.c -o pnn.exe -O2```
-### MSVC
+#### MSVC
 ```cl /O2 /TC hello.c```
